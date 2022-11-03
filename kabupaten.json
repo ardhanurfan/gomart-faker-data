@@ -1,0 +1,2572 @@
+[
+  {
+    "kab_id": 1101,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN SIMEULUE"
+  },
+  {
+    "kab_id": 1102,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH SINGKIL"
+  },
+  {
+    "kab_id": 1103,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH SELATAN"
+  },
+  {
+    "kab_id": 1104,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH TENGGARA"
+  },
+  {
+    "kab_id": 1105,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH TIMUR"
+  },
+  {
+    "kab_id": 1106,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH TENGAH"
+  },
+  {
+    "kab_id": 1107,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH BARAT"
+  },
+  {
+    "kab_id": 1108,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH BESAR"
+  },
+  {
+    "kab_id": 1109,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN PIDIE"
+  },
+  {
+    "kab_id": 1110,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN BIREUEN"
+  },
+  {
+    "kab_id": 1111,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH UTARA"
+  },
+  {
+    "kab_id": 1112,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH BARAT DAYA"
+  },
+  {
+    "kab_id": 1113,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN GAYO LUES"
+  },
+  {
+    "kab_id": 1114,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH TAMIANG"
+  },
+  {
+    "kab_id": 1115,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN NAGAN RAYA"
+  },
+  {
+    "kab_id": 1116,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN ACEH JAYA"
+  },
+  {
+    "kab_id": 1117,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN BENER MERIAH"
+  },
+  {
+    "kab_id": 1118,
+    "prov_id": 11,
+    "kab_name": "KABUPATEN PIDIE JAYA"
+  },
+  {
+    "kab_id": 1171,
+    "prov_id": 11,
+    "kab_name": "KOTA BANDA ACEH"
+  },
+  {
+    "kab_id": 1172,
+    "prov_id": 11,
+    "kab_name": "KOTA SABANG"
+  },
+  {
+    "kab_id": 1173,
+    "prov_id": 11,
+    "kab_name": "KOTA LANGSA"
+  },
+  {
+    "kab_id": 1174,
+    "prov_id": 11,
+    "kab_name": "KOTA LHOKSEUMAWE"
+  },
+  {
+    "kab_id": 1175,
+    "prov_id": 11,
+    "kab_name": "KOTA SUBULUSSALAM"
+  },
+  {
+    "kab_id": 1201,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN NIAS"
+  },
+  {
+    "kab_id": 1202,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN MANDAILING NATAL"
+  },
+  {
+    "kab_id": 1203,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN TAPANULI SELATAN"
+  },
+  {
+    "kab_id": 1204,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN TAPANULI TENGAH"
+  },
+  {
+    "kab_id": 1205,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN TAPANULI UTARA"
+  },
+  {
+    "kab_id": 1206,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN TOBA SAMOSIR"
+  },
+  {
+    "kab_id": 1207,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN LABUHAN BATU"
+  },
+  {
+    "kab_id": 1208,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN ASAHAN"
+  },
+  {
+    "kab_id": 1209,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN SIMALUNGUN"
+  },
+  {
+    "kab_id": 1210,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN DAIRI"
+  },
+  {
+    "kab_id": 1211,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN KARO"
+  },
+  {
+    "kab_id": 1212,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN DELI SERDANG"
+  },
+  {
+    "kab_id": 1213,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN LANGKAT"
+  },
+  {
+    "kab_id": 1214,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN NIAS SELATAN"
+  },
+  {
+    "kab_id": 1215,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN HUMBANG HASUNDUTAN"
+  },
+  {
+    "kab_id": 1216,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN PAKPAK BHARAT"
+  },
+  {
+    "kab_id": 1217,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN SAMOSIR"
+  },
+  {
+    "kab_id": 1218,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN SERDANG BEDAGAI"
+  },
+  {
+    "kab_id": 1219,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN BATU BARA"
+  },
+  {
+    "kab_id": 1220,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN PADANG LAWAS UTARA"
+  },
+  {
+    "kab_id": 1221,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN PADANG LAWAS"
+  },
+  {
+    "kab_id": 1222,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN LABUHAN BATU SELATAN"
+  },
+  {
+    "kab_id": 1223,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN LABUHAN BATU UTARA"
+  },
+  {
+    "kab_id": 1224,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN NIAS UTARA"
+  },
+  {
+    "kab_id": 1225,
+    "prov_id": 12,
+    "kab_name": "KABUPATEN NIAS BARAT"
+  },
+  {
+    "kab_id": 1271,
+    "prov_id": 12,
+    "kab_name": "KOTA SIBOLGA"
+  },
+  {
+    "kab_id": 1272,
+    "prov_id": 12,
+    "kab_name": "KOTA TANJUNG BALAI"
+  },
+  {
+    "kab_id": 1273,
+    "prov_id": 12,
+    "kab_name": "KOTA PEMATANG SIANTAR"
+  },
+  {
+    "kab_id": 1274,
+    "prov_id": 12,
+    "kab_name": "KOTA TEBING TINGGI"
+  },
+  {
+    "kab_id": 1275,
+    "prov_id": 12,
+    "kab_name": "KOTA MEDAN"
+  },
+  {
+    "kab_id": 1276,
+    "prov_id": 12,
+    "kab_name": "KOTA BINJAI"
+  },
+  {
+    "kab_id": 1277,
+    "prov_id": 12,
+    "kab_name": "KOTA PADANGSIDIMPUAN"
+  },
+  {
+    "kab_id": 1278,
+    "prov_id": 12,
+    "kab_name": "KOTA GUNUNGSITOLI"
+  },
+  {
+    "kab_id": 1301,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN KEPULAUAN MENTAWAI"
+  },
+  {
+    "kab_id": 1302,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN PESISIR SELATAN"
+  },
+  {
+    "kab_id": 1303,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN SOLOK"
+  },
+  {
+    "kab_id": 1304,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN SIJUNJUNG"
+  },
+  {
+    "kab_id": 1305,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN TANAH DATAR"
+  },
+  {
+    "kab_id": 1306,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN PADANG PARIAMAN"
+  },
+  {
+    "kab_id": 1307,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN AGAM"
+  },
+  {
+    "kab_id": 1308,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN LIMA PULUH KOTA"
+  },
+  {
+    "kab_id": 1309,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN PASAMAN"
+  },
+  {
+    "kab_id": 1310,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN SOLOK SELATAN"
+  },
+  {
+    "kab_id": 1311,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN DHARMASRAYA"
+  },
+  {
+    "kab_id": 1312,
+    "prov_id": 13,
+    "kab_name": "KABUPATEN PASAMAN BARAT"
+  },
+  {
+    "kab_id": 1371,
+    "prov_id": 13,
+    "kab_name": "KOTA PADANG"
+  },
+  {
+    "kab_id": 1372,
+    "prov_id": 13,
+    "kab_name": "KOTA SOLOK"
+  },
+  {
+    "kab_id": 1373,
+    "prov_id": 13,
+    "kab_name": "KOTA SAWAH LUNTO"
+  },
+  {
+    "kab_id": 1374,
+    "prov_id": 13,
+    "kab_name": "KOTA PADANG PANJANG"
+  },
+  {
+    "kab_id": 1375,
+    "prov_id": 13,
+    "kab_name": "KOTA BUKITTINGGI"
+  },
+  {
+    "kab_id": 1376,
+    "prov_id": 13,
+    "kab_name": "KOTA PAYAKUMBUH"
+  },
+  {
+    "kab_id": 1377,
+    "prov_id": 13,
+    "kab_name": "KOTA PARIAMAN"
+  },
+  {
+    "kab_id": 1401,
+    "prov_id": 14,
+    "kab_name": "KABUPATEN KUANTAN SINGINGI"
+  },
+  {
+    "kab_id": 1402,
+    "prov_id": 14,
+    "kab_name": "KABUPATEN INDRAGIRI HULU"
+  },
+  {
+    "kab_id": 1403,
+    "prov_id": 14,
+    "kab_name": "KABUPATEN INDRAGIRI HILIR"
+  },
+  {
+    "kab_id": 1404,
+    "prov_id": 14,
+    "kab_name": "KABUPATEN PELALAWAN"
+  },
+  {
+    "kab_id": 1405,
+    "prov_id": 14,
+    "kab_name": "KABUPATEN S I A K"
+  },
+  {
+    "kab_id": 1406,
+    "prov_id": 14,
+    "kab_name": "KABUPATEN KAMPAR"
+  },
+  {
+    "kab_id": 1407,
+    "prov_id": 14,
+    "kab_name": "KABUPATEN ROKAN HULU"
+  },
+  {
+    "kab_id": 1408,
+    "prov_id": 14,
+    "kab_name": "KABUPATEN BENGKALIS"
+  },
+  {
+    "kab_id": 1409,
+    "prov_id": 14,
+    "kab_name": "KABUPATEN ROKAN HILIR"
+  },
+  {
+    "kab_id": 1410,
+    "prov_id": 14,
+    "kab_name": "KABUPATEN KEPULAUAN MERANTI"
+  },
+  {
+    "kab_id": 1471,
+    "prov_id": 14,
+    "kab_name": "KOTA PEKANBARU"
+  },
+  {
+    "kab_id": 1473,
+    "prov_id": 14,
+    "kab_name": "KOTA D U M A I"
+  },
+  {
+    "kab_id": 1501,
+    "prov_id": 15,
+    "kab_name": "KABUPATEN KERINCI"
+  },
+  {
+    "kab_id": 1502,
+    "prov_id": 15,
+    "kab_name": "KABUPATEN MERANGIN"
+  },
+  {
+    "kab_id": 1503,
+    "prov_id": 15,
+    "kab_name": "KABUPATEN SAROLANGUN"
+  },
+  {
+    "kab_id": 1504,
+    "prov_id": 15,
+    "kab_name": "KABUPATEN BATANG HARI"
+  },
+  {
+    "kab_id": 1505,
+    "prov_id": 15,
+    "kab_name": "KABUPATEN MUARO JAMBI"
+  },
+  {
+    "kab_id": 1506,
+    "prov_id": 15,
+    "kab_name": "KABUPATEN TANJUNG JABUNG TIMUR"
+  },
+  {
+    "kab_id": 1507,
+    "prov_id": 15,
+    "kab_name": "KABUPATEN TANJUNG JABUNG BARAT"
+  },
+  {
+    "kab_id": 1508,
+    "prov_id": 15,
+    "kab_name": "KABUPATEN TEBO"
+  },
+  {
+    "kab_id": 1509,
+    "prov_id": 15,
+    "kab_name": "KABUPATEN BUNGO"
+  },
+  {
+    "kab_id": 1571,
+    "prov_id": 15,
+    "kab_name": "KOTA JAMBI"
+  },
+  {
+    "kab_id": 1572,
+    "prov_id": 15,
+    "kab_name": "KOTA SUNGAI PENUH"
+  },
+  {
+    "kab_id": 1601,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN OGAN KOMERING ULU"
+  },
+  {
+    "kab_id": 1602,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN OGAN KOMERING ILIR"
+  },
+  {
+    "kab_id": 1603,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN MUARA ENIM"
+  },
+  {
+    "kab_id": 1604,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN LAHAT"
+  },
+  {
+    "kab_id": 1605,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN MUSI RAWAS"
+  },
+  {
+    "kab_id": 1606,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN MUSI BANYUASIN"
+  },
+  {
+    "kab_id": 1607,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN BANYU ASIN"
+  },
+  {
+    "kab_id": 1608,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN OGAN KOMERING ULU SELATAN"
+  },
+  {
+    "kab_id": 1609,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN OGAN KOMERING ULU TIMUR"
+  },
+  {
+    "kab_id": 1610,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN OGAN ILIR"
+  },
+  {
+    "kab_id": 1611,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN EMPAT LAWANG"
+  },
+  {
+    "kab_id": 1612,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN PENUKAL ABAB LEMATANG ILIR"
+  },
+  {
+    "kab_id": 1613,
+    "prov_id": 16,
+    "kab_name": "KABUPATEN MUSI RAWAS UTARA"
+  },
+  {
+    "kab_id": 1671,
+    "prov_id": 16,
+    "kab_name": "KOTA PALEMBANG"
+  },
+  {
+    "kab_id": 1672,
+    "prov_id": 16,
+    "kab_name": "KOTA PRABUMULIH"
+  },
+  {
+    "kab_id": 1673,
+    "prov_id": 16,
+    "kab_name": "KOTA PAGAR ALAM"
+  },
+  {
+    "kab_id": 1674,
+    "prov_id": 16,
+    "kab_name": "KOTA LUBUKLINGGAU"
+  },
+  {
+    "kab_id": 1701,
+    "prov_id": 17,
+    "kab_name": "KABUPATEN BENGKULU SELATAN"
+  },
+  {
+    "kab_id": 1702,
+    "prov_id": 17,
+    "kab_name": "KABUPATEN REJANG LEBONG"
+  },
+  {
+    "kab_id": 1703,
+    "prov_id": 17,
+    "kab_name": "KABUPATEN BENGKULU UTARA"
+  },
+  {
+    "kab_id": 1704,
+    "prov_id": 17,
+    "kab_name": "KABUPATEN KAUR"
+  },
+  {
+    "kab_id": 1705,
+    "prov_id": 17,
+    "kab_name": "KABUPATEN SELUMA"
+  },
+  {
+    "kab_id": 1706,
+    "prov_id": 17,
+    "kab_name": "KABUPATEN MUKOMUKO"
+  },
+  {
+    "kab_id": 1707,
+    "prov_id": 17,
+    "kab_name": "KABUPATEN LEBONG"
+  },
+  {
+    "kab_id": 1708,
+    "prov_id": 17,
+    "kab_name": "KABUPATEN KEPAHIANG"
+  },
+  {
+    "kab_id": 1709,
+    "prov_id": 17,
+    "kab_name": "KABUPATEN BENGKULU TENGAH"
+  },
+  {
+    "kab_id": 1771,
+    "prov_id": 17,
+    "kab_name": "KOTA BENGKULU"
+  },
+  {
+    "kab_id": 1801,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN LAMPUNG BARAT"
+  },
+  {
+    "kab_id": 1802,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN TANGGAMUS"
+  },
+  {
+    "kab_id": 1803,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN LAMPUNG SELATAN"
+  },
+  {
+    "kab_id": 1804,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN LAMPUNG TIMUR"
+  },
+  {
+    "kab_id": 1805,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN LAMPUNG TENGAH"
+  },
+  {
+    "kab_id": 1806,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN LAMPUNG UTARA"
+  },
+  {
+    "kab_id": 1807,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN WAY KANAN"
+  },
+  {
+    "kab_id": 1808,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN TULANGBAWANG"
+  },
+  {
+    "kab_id": 1809,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN PESAWARAN"
+  },
+  {
+    "kab_id": 1810,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN PRINGSEWU"
+  },
+  {
+    "kab_id": 1811,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN MESUJI"
+  },
+  {
+    "kab_id": 1812,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN TULANG BAWANG BARAT"
+  },
+  {
+    "kab_id": 1813,
+    "prov_id": 18,
+    "kab_name": "KABUPATEN PESISIR BARAT"
+  },
+  {
+    "kab_id": 1871,
+    "prov_id": 18,
+    "kab_name": "KOTA BANDAR LAMPUNG"
+  },
+  {
+    "kab_id": 1872,
+    "prov_id": 18,
+    "kab_name": "KOTA METRO"
+  },
+  {
+    "kab_id": 1901,
+    "prov_id": 19,
+    "kab_name": "KABUPATEN BANGKA"
+  },
+  {
+    "kab_id": 1902,
+    "prov_id": 19,
+    "kab_name": "KABUPATEN BELITUNG"
+  },
+  {
+    "kab_id": 1903,
+    "prov_id": 19,
+    "kab_name": "KABUPATEN BANGKA BARAT"
+  },
+  {
+    "kab_id": 1904,
+    "prov_id": 19,
+    "kab_name": "KABUPATEN BANGKA TENGAH"
+  },
+  {
+    "kab_id": 1905,
+    "prov_id": 19,
+    "kab_name": "KABUPATEN BANGKA SELATAN"
+  },
+  {
+    "kab_id": 1906,
+    "prov_id": 19,
+    "kab_name": "KABUPATEN BELITUNG TIMUR"
+  },
+  {
+    "kab_id": 1971,
+    "prov_id": 19,
+    "kab_name": "KOTA PANGKAL PINANG"
+  },
+  {
+    "kab_id": 2101,
+    "prov_id": 21,
+    "kab_name": "KABUPATEN KARIMUN"
+  },
+  {
+    "kab_id": 2102,
+    "prov_id": 21,
+    "kab_name": "KABUPATEN BINTAN"
+  },
+  {
+    "kab_id": 2103,
+    "prov_id": 21,
+    "kab_name": "KABUPATEN NATUNA"
+  },
+  {
+    "kab_id": 2104,
+    "prov_id": 21,
+    "kab_name": "KABUPATEN LINGGA"
+  },
+  {
+    "kab_id": 2105,
+    "prov_id": 21,
+    "kab_name": "KABUPATEN KEPULAUAN ANAMBAS"
+  },
+  {
+    "kab_id": 2171,
+    "prov_id": 21,
+    "kab_name": "KOTA B A T A M"
+  },
+  {
+    "kab_id": 2172,
+    "prov_id": 21,
+    "kab_name": "KOTA TANJUNG PINANG"
+  },
+  {
+    "kab_id": 3101,
+    "prov_id": 31,
+    "kab_name": "KABUPATEN KEPULAUAN SERIBU"
+  },
+  {
+    "kab_id": 3171,
+    "prov_id": 31,
+    "kab_name": "KOTA JAKARTA SELATAN"
+  },
+  {
+    "kab_id": 3172,
+    "prov_id": 31,
+    "kab_name": "KOTA JAKARTA TIMUR"
+  },
+  {
+    "kab_id": 3173,
+    "prov_id": 31,
+    "kab_name": "KOTA JAKARTA PUSAT"
+  },
+  {
+    "kab_id": 3174,
+    "prov_id": 31,
+    "kab_name": "KOTA JAKARTA BARAT"
+  },
+  {
+    "kab_id": 3175,
+    "prov_id": 31,
+    "kab_name": "KOTA JAKARTA UTARA"
+  },
+  {
+    "kab_id": 3201,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN BOGOR"
+  },
+  {
+    "kab_id": 3202,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN SUKABUMI"
+  },
+  {
+    "kab_id": 3203,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN CIANJUR"
+  },
+  {
+    "kab_id": 3204,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN BANDUNG"
+  },
+  {
+    "kab_id": 3205,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN GARUT"
+  },
+  {
+    "kab_id": 3206,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN TASIKMALAYA"
+  },
+  {
+    "kab_id": 3207,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN CIAMIS"
+  },
+  {
+    "kab_id": 3208,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN KUNINGAN"
+  },
+  {
+    "kab_id": 3209,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN CIREBON"
+  },
+  {
+    "kab_id": 3210,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN MAJALENGKA"
+  },
+  {
+    "kab_id": 3211,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN SUMEDANG"
+  },
+  {
+    "kab_id": 3212,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN INDRAMAYU"
+  },
+  {
+    "kab_id": 3213,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN SUBANG"
+  },
+  {
+    "kab_id": 3214,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN PURWAKARTA"
+  },
+  {
+    "kab_id": 3215,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN KARAWANG"
+  },
+  {
+    "kab_id": 3216,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN BEKASI"
+  },
+  {
+    "kab_id": 3217,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN BANDUNG BARAT"
+  },
+  {
+    "kab_id": 3218,
+    "prov_id": 32,
+    "kab_name": "KABUPATEN PANGANDARAN"
+  },
+  {
+    "kab_id": 3271,
+    "prov_id": 32,
+    "kab_name": "KOTA BOGOR"
+  },
+  {
+    "kab_id": 3272,
+    "prov_id": 32,
+    "kab_name": "KOTA SUKABUMI"
+  },
+  {
+    "kab_id": 3273,
+    "prov_id": 32,
+    "kab_name": "KOTA BANDUNG"
+  },
+  {
+    "kab_id": 3274,
+    "prov_id": 32,
+    "kab_name": "KOTA CIREBON"
+  },
+  {
+    "kab_id": 3275,
+    "prov_id": 32,
+    "kab_name": "KOTA BEKASI"
+  },
+  {
+    "kab_id": 3276,
+    "prov_id": 32,
+    "kab_name": "KOTA DEPOK"
+  },
+  {
+    "kab_id": 3277,
+    "prov_id": 32,
+    "kab_name": "KOTA CIMAHI"
+  },
+  {
+    "kab_id": 3278,
+    "prov_id": 32,
+    "kab_name": "KOTA TASIKMALAYA"
+  },
+  {
+    "kab_id": 3279,
+    "prov_id": 32,
+    "kab_name": "KOTA BANJAR"
+  },
+  {
+    "kab_id": 3301,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN CILACAP"
+  },
+  {
+    "kab_id": 3302,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN BANYUMAS"
+  },
+  {
+    "kab_id": 3303,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN PURBALINGGA"
+  },
+  {
+    "kab_id": 3304,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN BANJARNEGARA"
+  },
+  {
+    "kab_id": 3305,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN KEBUMEN"
+  },
+  {
+    "kab_id": 3306,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN PURWOREJO"
+  },
+  {
+    "kab_id": 3307,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN WONOSOBO"
+  },
+  {
+    "kab_id": 3308,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN MAGELANG"
+  },
+  {
+    "kab_id": 3309,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN BOYOLALI"
+  },
+  {
+    "kab_id": 3310,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN KLATEN"
+  },
+  {
+    "kab_id": 3311,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN SUKOHARJO"
+  },
+  {
+    "kab_id": 3312,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN WONOGIRI"
+  },
+  {
+    "kab_id": 3313,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN KARANGANYAR"
+  },
+  {
+    "kab_id": 3314,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN SRAGEN"
+  },
+  {
+    "kab_id": 3315,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN GROBOGAN"
+  },
+  {
+    "kab_id": 3316,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN BLORA"
+  },
+  {
+    "kab_id": 3317,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN REMBANG"
+  },
+  {
+    "kab_id": 3318,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN PATI"
+  },
+  {
+    "kab_id": 3319,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN KUDUS"
+  },
+  {
+    "kab_id": 3320,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN JEPARA"
+  },
+  {
+    "kab_id": 3321,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN DEMAK"
+  },
+  {
+    "kab_id": 3322,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN SEMARANG"
+  },
+  {
+    "kab_id": 3323,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN TEMANGGUNG"
+  },
+  {
+    "kab_id": 3324,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN KENDAL"
+  },
+  {
+    "kab_id": 3325,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN BATANG"
+  },
+  {
+    "kab_id": 3326,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN PEKALONGAN"
+  },
+  {
+    "kab_id": 3327,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN PEMALANG"
+  },
+  {
+    "kab_id": 3328,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN TEGAL"
+  },
+  {
+    "kab_id": 3329,
+    "prov_id": 33,
+    "kab_name": "KABUPATEN BREBES"
+  },
+  {
+    "kab_id": 3371,
+    "prov_id": 33,
+    "kab_name": "KOTA MAGELANG"
+  },
+  {
+    "kab_id": 3372,
+    "prov_id": 33,
+    "kab_name": "KOTA SURAKARTA"
+  },
+  {
+    "kab_id": 3373,
+    "prov_id": 33,
+    "kab_name": "KOTA SALATIGA"
+  },
+  {
+    "kab_id": 3374,
+    "prov_id": 33,
+    "kab_name": "KOTA SEMARANG"
+  },
+  {
+    "kab_id": 3375,
+    "prov_id": 33,
+    "kab_name": "KOTA PEKALONGAN"
+  },
+  {
+    "kab_id": 3376,
+    "prov_id": 33,
+    "kab_name": "KOTA TEGAL"
+  },
+  {
+    "kab_id": 3401,
+    "prov_id": 34,
+    "kab_name": "KABUPATEN KULON PROGO"
+  },
+  {
+    "kab_id": 3402,
+    "prov_id": 34,
+    "kab_name": "KABUPATEN BANTUL"
+  },
+  {
+    "kab_id": 3403,
+    "prov_id": 34,
+    "kab_name": "KABUPATEN GUNUNG KIDUL"
+  },
+  {
+    "kab_id": 3404,
+    "prov_id": 34,
+    "kab_name": "KABUPATEN SLEMAN"
+  },
+  {
+    "kab_id": 3471,
+    "prov_id": 34,
+    "kab_name": "KOTA YOGYAKARTA"
+  },
+  {
+    "kab_id": 3501,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN PACITAN"
+  },
+  {
+    "kab_id": 3502,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN PONOROGO"
+  },
+  {
+    "kab_id": 3503,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN TRENGGALEK"
+  },
+  {
+    "kab_id": 3504,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN TULUNGAGUNG"
+  },
+  {
+    "kab_id": 3505,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN BLITAR"
+  },
+  {
+    "kab_id": 3506,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN KEDIRI"
+  },
+  {
+    "kab_id": 3507,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN MALANG"
+  },
+  {
+    "kab_id": 3508,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN LUMAJANG"
+  },
+  {
+    "kab_id": 3509,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN JEMBER"
+  },
+  {
+    "kab_id": 3510,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN BANYUWANGI"
+  },
+  {
+    "kab_id": 3511,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN BONDOWOSO"
+  },
+  {
+    "kab_id": 3512,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN SITUBONDO"
+  },
+  {
+    "kab_id": 3513,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN PROBOLINGGO"
+  },
+  {
+    "kab_id": 3514,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN PASURUAN"
+  },
+  {
+    "kab_id": 3515,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN SIDOARJO"
+  },
+  {
+    "kab_id": 3516,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN MOJOKERTO"
+  },
+  {
+    "kab_id": 3517,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN JOMBANG"
+  },
+  {
+    "kab_id": 3518,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN NGANJUK"
+  },
+  {
+    "kab_id": 3519,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN MADIUN"
+  },
+  {
+    "kab_id": 3520,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN MAGETAN"
+  },
+  {
+    "kab_id": 3521,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN NGAWI"
+  },
+  {
+    "kab_id": 3522,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN BOJONEGORO"
+  },
+  {
+    "kab_id": 3523,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN TUBAN"
+  },
+  {
+    "kab_id": 3524,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN LAMONGAN"
+  },
+  {
+    "kab_id": 3525,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN GRESIK"
+  },
+  {
+    "kab_id": 3526,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN BANGKALAN"
+  },
+  {
+    "kab_id": 3527,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN SAMPANG"
+  },
+  {
+    "kab_id": 3528,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN PAMEKASAN"
+  },
+  {
+    "kab_id": 3529,
+    "prov_id": 35,
+    "kab_name": "KABUPATEN SUMENEP"
+  },
+  {
+    "kab_id": 3571,
+    "prov_id": 35,
+    "kab_name": "KOTA KEDIRI"
+  },
+  {
+    "kab_id": 3572,
+    "prov_id": 35,
+    "kab_name": "KOTA BLITAR"
+  },
+  {
+    "kab_id": 3573,
+    "prov_id": 35,
+    "kab_name": "KOTA MALANG"
+  },
+  {
+    "kab_id": 3574,
+    "prov_id": 35,
+    "kab_name": "KOTA PROBOLINGGO"
+  },
+  {
+    "kab_id": 3575,
+    "prov_id": 35,
+    "kab_name": "KOTA PASURUAN"
+  },
+  {
+    "kab_id": 3576,
+    "prov_id": 35,
+    "kab_name": "KOTA MOJOKERTO"
+  },
+  {
+    "kab_id": 3577,
+    "prov_id": 35,
+    "kab_name": "KOTA MADIUN"
+  },
+  {
+    "kab_id": 3578,
+    "prov_id": 35,
+    "kab_name": "KOTA SURABAYA"
+  },
+  {
+    "kab_id": 3579,
+    "prov_id": 35,
+    "kab_name": "KOTA BATU"
+  },
+  {
+    "kab_id": 3601,
+    "prov_id": 36,
+    "kab_name": "KABUPATEN PANDEGLANG"
+  },
+  {
+    "kab_id": 3602,
+    "prov_id": 36,
+    "kab_name": "KABUPATEN LEBAK"
+  },
+  {
+    "kab_id": 3603,
+    "prov_id": 36,
+    "kab_name": "KABUPATEN TANGERANG"
+  },
+  {
+    "kab_id": 3604,
+    "prov_id": 36,
+    "kab_name": "KABUPATEN SERANG"
+  },
+  {
+    "kab_id": 3671,
+    "prov_id": 36,
+    "kab_name": "KOTA TANGERANG"
+  },
+  {
+    "kab_id": 3672,
+    "prov_id": 36,
+    "kab_name": "KOTA CILEGON"
+  },
+  {
+    "kab_id": 3673,
+    "prov_id": 36,
+    "kab_name": "KOTA SERANG"
+  },
+  {
+    "kab_id": 3674,
+    "prov_id": 36,
+    "kab_name": "KOTA TANGERANG SELATAN"
+  },
+  {
+    "kab_id": 5101,
+    "prov_id": 51,
+    "kab_name": "KABUPATEN JEMBRANA"
+  },
+  {
+    "kab_id": 5102,
+    "prov_id": 51,
+    "kab_name": "KABUPATEN TABANAN"
+  },
+  {
+    "kab_id": 5103,
+    "prov_id": 51,
+    "kab_name": "KABUPATEN BADUNG"
+  },
+  {
+    "kab_id": 5104,
+    "prov_id": 51,
+    "kab_name": "KABUPATEN GIANYAR"
+  },
+  {
+    "kab_id": 5105,
+    "prov_id": 51,
+    "kab_name": "KABUPATEN KLUNGKUNG"
+  },
+  {
+    "kab_id": 5106,
+    "prov_id": 51,
+    "kab_name": "KABUPATEN BANGLI"
+  },
+  {
+    "kab_id": 5107,
+    "prov_id": 51,
+    "kab_name": "KABUPATEN KARANG ASEM"
+  },
+  {
+    "kab_id": 5108,
+    "prov_id": 51,
+    "kab_name": "KABUPATEN BULELENG"
+  },
+  {
+    "kab_id": 5171,
+    "prov_id": 51,
+    "kab_name": "KOTA DENPASAR"
+  },
+  {
+    "kab_id": 5201,
+    "prov_id": 52,
+    "kab_name": "KABUPATEN LOMBOK BARAT"
+  },
+  {
+    "kab_id": 5202,
+    "prov_id": 52,
+    "kab_name": "KABUPATEN LOMBOK TENGAH"
+  },
+  {
+    "kab_id": 5203,
+    "prov_id": 52,
+    "kab_name": "KABUPATEN LOMBOK TIMUR"
+  },
+  {
+    "kab_id": 5204,
+    "prov_id": 52,
+    "kab_name": "KABUPATEN SUMBAWA"
+  },
+  {
+    "kab_id": 5205,
+    "prov_id": 52,
+    "kab_name": "KABUPATEN DOMPU"
+  },
+  {
+    "kab_id": 5206,
+    "prov_id": 52,
+    "kab_name": "KABUPATEN BIMA"
+  },
+  {
+    "kab_id": 5207,
+    "prov_id": 52,
+    "kab_name": "KABUPATEN SUMBAWA BARAT"
+  },
+  {
+    "kab_id": 5208,
+    "prov_id": 52,
+    "kab_name": "KABUPATEN LOMBOK UTARA"
+  },
+  {
+    "kab_id": 5271,
+    "prov_id": 52,
+    "kab_name": "KOTA MATARAM"
+  },
+  {
+    "kab_id": 5272,
+    "prov_id": 52,
+    "kab_name": "KOTA BIMA"
+  },
+  {
+    "kab_id": 5301,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN SUMBA BARAT"
+  },
+  {
+    "kab_id": 5302,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN SUMBA TIMUR"
+  },
+  {
+    "kab_id": 5303,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN KUPANG"
+  },
+  {
+    "kab_id": 5304,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN TIMOR TENGAH SELATAN"
+  },
+  {
+    "kab_id": 5305,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN TIMOR TENGAH UTARA"
+  },
+  {
+    "kab_id": 5306,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN BELU"
+  },
+  {
+    "kab_id": 5307,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN ALOR"
+  },
+  {
+    "kab_id": 5308,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN LEMBATA"
+  },
+  {
+    "kab_id": 5309,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN FLORES TIMUR"
+  },
+  {
+    "kab_id": 5310,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN SIKKA"
+  },
+  {
+    "kab_id": 5311,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN ENDE"
+  },
+  {
+    "kab_id": 5312,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN NGADA"
+  },
+  {
+    "kab_id": 5313,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN MANGGARAI"
+  },
+  {
+    "kab_id": 5314,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN ROTE NDAO"
+  },
+  {
+    "kab_id": 5315,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN MANGGARAI BARAT"
+  },
+  {
+    "kab_id": 5316,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN SUMBA TENGAH"
+  },
+  {
+    "kab_id": 5317,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN SUMBA BARAT DAYA"
+  },
+  {
+    "kab_id": 5318,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN NAGEKEO"
+  },
+  {
+    "kab_id": 5319,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN MANGGARAI TIMUR"
+  },
+  {
+    "kab_id": 5320,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN SABU RAIJUA"
+  },
+  {
+    "kab_id": 5321,
+    "prov_id": 53,
+    "kab_name": "KABUPATEN MALAKA"
+  },
+  {
+    "kab_id": 5371,
+    "prov_id": 53,
+    "kab_name": "KOTA KUPANG"
+  },
+  {
+    "kab_id": 6101,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN SAMBAS"
+  },
+  {
+    "kab_id": 6102,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN BENGKAYANG"
+  },
+  {
+    "kab_id": 6103,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN LANDAK"
+  },
+  {
+    "kab_id": 6104,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN MEMPAWAH"
+  },
+  {
+    "kab_id": 6105,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN SANGGAU"
+  },
+  {
+    "kab_id": 6106,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN KETAPANG"
+  },
+  {
+    "kab_id": 6107,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN SINTANG"
+  },
+  {
+    "kab_id": 6108,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN KAPUAS HULU"
+  },
+  {
+    "kab_id": 6109,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN SEKADAU"
+  },
+  {
+    "kab_id": 6110,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN MELAWI"
+  },
+  {
+    "kab_id": 6111,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN KAYONG UTARA"
+  },
+  {
+    "kab_id": 6112,
+    "prov_id": 61,
+    "kab_name": "KABUPATEN KUBU RAYA"
+  },
+  {
+    "kab_id": 6171,
+    "prov_id": 61,
+    "kab_name": "KOTA PONTIANAK"
+  },
+  {
+    "kab_id": 6172,
+    "prov_id": 61,
+    "kab_name": "KOTA SINGKAWANG"
+  },
+  {
+    "kab_id": 6201,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN KOTAWARINGIN BARAT"
+  },
+  {
+    "kab_id": 6202,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN KOTAWARINGIN TIMUR"
+  },
+  {
+    "kab_id": 6203,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN KAPUAS"
+  },
+  {
+    "kab_id": 6204,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN BARITO SELATAN"
+  },
+  {
+    "kab_id": 6205,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN BARITO UTARA"
+  },
+  {
+    "kab_id": 6206,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN SUKAMARA"
+  },
+  {
+    "kab_id": 6207,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN LAMANDAU"
+  },
+  {
+    "kab_id": 6208,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN SERUYAN"
+  },
+  {
+    "kab_id": 6209,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN KATINGAN"
+  },
+  {
+    "kab_id": 6210,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN PULANG PISAU"
+  },
+  {
+    "kab_id": 6211,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN GUNUNG MAS"
+  },
+  {
+    "kab_id": 6212,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN BARITO TIMUR"
+  },
+  {
+    "kab_id": 6213,
+    "prov_id": 62,
+    "kab_name": "KABUPATEN MURUNG RAYA"
+  },
+  {
+    "kab_id": 6271,
+    "prov_id": 62,
+    "kab_name": "KOTA PALANGKA RAYA"
+  },
+  {
+    "kab_id": 6301,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN TANAH LAUT"
+  },
+  {
+    "kab_id": 6302,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN KOTA BARU"
+  },
+  {
+    "kab_id": 6303,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN BANJAR"
+  },
+  {
+    "kab_id": 6304,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN BARITO KUALA"
+  },
+  {
+    "kab_id": 6305,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN TAPIN"
+  },
+  {
+    "kab_id": 6306,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN HULU SUNGAI SELATAN"
+  },
+  {
+    "kab_id": 6307,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN HULU SUNGAI TENGAH"
+  },
+  {
+    "kab_id": 6308,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN HULU SUNGAI UTARA"
+  },
+  {
+    "kab_id": 6309,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN TABALONG"
+  },
+  {
+    "kab_id": 6310,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN TANAH BUMBU"
+  },
+  {
+    "kab_id": 6311,
+    "prov_id": 63,
+    "kab_name": "KABUPATEN BALANGAN"
+  },
+  {
+    "kab_id": 6371,
+    "prov_id": 63,
+    "kab_name": "KOTA BANJARMASIN"
+  },
+  {
+    "kab_id": 6372,
+    "prov_id": 63,
+    "kab_name": "KOTA BANJAR BARU"
+  },
+  {
+    "kab_id": 6401,
+    "prov_id": 64,
+    "kab_name": "KABUPATEN PASER"
+  },
+  {
+    "kab_id": 6402,
+    "prov_id": 64,
+    "kab_name": "KABUPATEN KUTAI BARAT"
+  },
+  {
+    "kab_id": 6403,
+    "prov_id": 64,
+    "kab_name": "KABUPATEN KUTAI KARTANEGARA"
+  },
+  {
+    "kab_id": 6404,
+    "prov_id": 64,
+    "kab_name": "KABUPATEN KUTAI TIMUR"
+  },
+  {
+    "kab_id": 6405,
+    "prov_id": 64,
+    "kab_name": "KABUPATEN BERAU"
+  },
+  {
+    "kab_id": 6409,
+    "prov_id": 64,
+    "kab_name": "KABUPATEN PENAJAM PASER UTARA"
+  },
+  {
+    "kab_id": 6411,
+    "prov_id": 64,
+    "kab_name": "KABUPATEN MAHAKAM HULU"
+  },
+  {
+    "kab_id": 6471,
+    "prov_id": 64,
+    "kab_name": "KOTA BALIKPAPAN"
+  },
+  {
+    "kab_id": 6472,
+    "prov_id": 64,
+    "kab_name": "KOTA SAMARINDA"
+  },
+  {
+    "kab_id": 6474,
+    "prov_id": 64,
+    "kab_name": "KOTA BONTANG"
+  },
+  {
+    "kab_id": 6501,
+    "prov_id": 65,
+    "kab_name": "KABUPATEN MALINAU"
+  },
+  {
+    "kab_id": 6502,
+    "prov_id": 65,
+    "kab_name": "KABUPATEN BULUNGAN"
+  },
+  {
+    "kab_id": 6503,
+    "prov_id": 65,
+    "kab_name": "KABUPATEN TANA TIDUNG"
+  },
+  {
+    "kab_id": 6504,
+    "prov_id": 65,
+    "kab_name": "KABUPATEN NUNUKAN"
+  },
+  {
+    "kab_id": 6571,
+    "prov_id": 65,
+    "kab_name": "KOTA TARAKAN"
+  },
+  {
+    "kab_id": 7101,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN BOLAANG MONGONDOW"
+  },
+  {
+    "kab_id": 7102,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN MINAHASA"
+  },
+  {
+    "kab_id": 7103,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN KEPULAUAN SANGIHE"
+  },
+  {
+    "kab_id": 7104,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN KEPULAUAN TALAUD"
+  },
+  {
+    "kab_id": 7105,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN MINAHASA SELATAN"
+  },
+  {
+    "kab_id": 7106,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN MINAHASA UTARA"
+  },
+  {
+    "kab_id": 7107,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN BOLAANG MONGONDOW UTARA"
+  },
+  {
+    "kab_id": 7108,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN SIAU TAGULANDANG BIARO"
+  },
+  {
+    "kab_id": 7109,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN MINAHASA TENGGARA"
+  },
+  {
+    "kab_id": 7110,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN BOLAANG MONGONDOW SELATAN"
+  },
+  {
+    "kab_id": 7111,
+    "prov_id": 71,
+    "kab_name": "KABUPATEN BOLAANG MONGONDOW TIMUR"
+  },
+  {
+    "kab_id": 7171,
+    "prov_id": 71,
+    "kab_name": "KOTA MANADO"
+  },
+  {
+    "kab_id": 7172,
+    "prov_id": 71,
+    "kab_name": "KOTA BITUNG"
+  },
+  {
+    "kab_id": 7173,
+    "prov_id": 71,
+    "kab_name": "KOTA TOMOHON"
+  },
+  {
+    "kab_id": 7174,
+    "prov_id": 71,
+    "kab_name": "KOTA KOTAMOBAGU"
+  },
+  {
+    "kab_id": 7201,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN BANGGAI KEPULAUAN"
+  },
+  {
+    "kab_id": 7202,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN BANGGAI"
+  },
+  {
+    "kab_id": 7203,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN MOROWALI"
+  },
+  {
+    "kab_id": 7204,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN POSO"
+  },
+  {
+    "kab_id": 7205,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN DONGGALA"
+  },
+  {
+    "kab_id": 7206,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN TOLI-TOLI"
+  },
+  {
+    "kab_id": 7207,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN BUOL"
+  },
+  {
+    "kab_id": 7208,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN PARIGI MOUTONG"
+  },
+  {
+    "kab_id": 7209,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN TOJO UNA-UNA"
+  },
+  {
+    "kab_id": 7210,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN SIGI"
+  },
+  {
+    "kab_id": 7211,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN BANGGAI LAUT"
+  },
+  {
+    "kab_id": 7212,
+    "prov_id": 72,
+    "kab_name": "KABUPATEN MOROWALI UTARA"
+  },
+  {
+    "kab_id": 7271,
+    "prov_id": 72,
+    "kab_name": "KOTA PALU"
+  },
+  {
+    "kab_id": 7301,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN KEPULAUAN SELAYAR"
+  },
+  {
+    "kab_id": 7302,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN BULUKUMBA"
+  },
+  {
+    "kab_id": 7303,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN BANTAENG"
+  },
+  {
+    "kab_id": 7304,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN JENEPONTO"
+  },
+  {
+    "kab_id": 7305,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN TAKALAR"
+  },
+  {
+    "kab_id": 7306,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN GOWA"
+  },
+  {
+    "kab_id": 7307,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN SINJAI"
+  },
+  {
+    "kab_id": 7308,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN MAROS"
+  },
+  {
+    "kab_id": 7309,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN PANGKAJENE DAN KEPULAUAN"
+  },
+  {
+    "kab_id": 7310,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN BARRU"
+  },
+  {
+    "kab_id": 7311,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN BONE"
+  },
+  {
+    "kab_id": 7312,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN SOPPENG"
+  },
+  {
+    "kab_id": 7313,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN WAJO"
+  },
+  {
+    "kab_id": 7314,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN SIDENRENG RAPPANG"
+  },
+  {
+    "kab_id": 7315,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN PINRANG"
+  },
+  {
+    "kab_id": 7316,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN ENREKANG"
+  },
+  {
+    "kab_id": 7317,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN LUWU"
+  },
+  {
+    "kab_id": 7318,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN TANA TORAJA"
+  },
+  {
+    "kab_id": 7322,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN LUWU UTARA"
+  },
+  {
+    "kab_id": 7325,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN LUWU TIMUR"
+  },
+  {
+    "kab_id": 7326,
+    "prov_id": 73,
+    "kab_name": "KABUPATEN TORAJA UTARA"
+  },
+  {
+    "kab_id": 7371,
+    "prov_id": 73,
+    "kab_name": "KOTA MAKASSAR"
+  },
+  {
+    "kab_id": 7372,
+    "prov_id": 73,
+    "kab_name": "KOTA PAREPARE"
+  },
+  {
+    "kab_id": 7373,
+    "prov_id": 73,
+    "kab_name": "KOTA PALOPO"
+  },
+  {
+    "kab_id": 7401,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN BUTON"
+  },
+  {
+    "kab_id": 7402,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN MUNA"
+  },
+  {
+    "kab_id": 7403,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN KONAWE"
+  },
+  {
+    "kab_id": 7404,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN KOLAKA"
+  },
+  {
+    "kab_id": 7405,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN KONAWE SELATAN"
+  },
+  {
+    "kab_id": 7406,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN BOMBANA"
+  },
+  {
+    "kab_id": 7407,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN WAKATOBI"
+  },
+  {
+    "kab_id": 7408,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN KOLAKA UTARA"
+  },
+  {
+    "kab_id": 7409,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN BUTON UTARA"
+  },
+  {
+    "kab_id": 7410,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN KONAWE UTARA"
+  },
+  {
+    "kab_id": 7411,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN KOLAKA TIMUR"
+  },
+  {
+    "kab_id": 7412,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN KONAWE KEPULAUAN"
+  },
+  {
+    "kab_id": 7413,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN MUNA BARAT"
+  },
+  {
+    "kab_id": 7414,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN BUTON TENGAH"
+  },
+  {
+    "kab_id": 7415,
+    "prov_id": 74,
+    "kab_name": "KABUPATEN BUTON SELATAN"
+  },
+  {
+    "kab_id": 7471,
+    "prov_id": 74,
+    "kab_name": "KOTA KENDARI"
+  },
+  {
+    "kab_id": 7472,
+    "prov_id": 74,
+    "kab_name": "KOTA BAUBAU"
+  },
+  {
+    "kab_id": 7501,
+    "prov_id": 75,
+    "kab_name": "KABUPATEN BOALEMO"
+  },
+  {
+    "kab_id": 7502,
+    "prov_id": 75,
+    "kab_name": "KABUPATEN GORONTALO"
+  },
+  {
+    "kab_id": 7503,
+    "prov_id": 75,
+    "kab_name": "KABUPATEN POHUWATO"
+  },
+  {
+    "kab_id": 7504,
+    "prov_id": 75,
+    "kab_name": "KABUPATEN BONE BOLANGO"
+  },
+  {
+    "kab_id": 7505,
+    "prov_id": 75,
+    "kab_name": "KABUPATEN GORONTALO UTARA"
+  },
+  {
+    "kab_id": 7571,
+    "prov_id": 75,
+    "kab_name": "KOTA GORONTALO"
+  },
+  {
+    "kab_id": 7601,
+    "prov_id": 76,
+    "kab_name": "KABUPATEN MAJENE"
+  },
+  {
+    "kab_id": 7602,
+    "prov_id": 76,
+    "kab_name": "KABUPATEN POLEWALI MANDAR"
+  },
+  {
+    "kab_id": 7603,
+    "prov_id": 76,
+    "kab_name": "KABUPATEN MAMASA"
+  },
+  {
+    "kab_id": 7604,
+    "prov_id": 76,
+    "kab_name": "KABUPATEN MAMUJU"
+  },
+  {
+    "kab_id": 7605,
+    "prov_id": 76,
+    "kab_name": "KABUPATEN MAMUJU UTARA"
+  },
+  {
+    "kab_id": 7606,
+    "prov_id": 76,
+    "kab_name": "KABUPATEN MAMUJU TENGAH"
+  },
+  {
+    "kab_id": 8101,
+    "prov_id": 81,
+    "kab_name": "KABUPATEN MALUKU TENGGARA BARAT"
+  },
+  {
+    "kab_id": 8102,
+    "prov_id": 81,
+    "kab_name": "KABUPATEN MALUKU TENGGARA"
+  },
+  {
+    "kab_id": 8103,
+    "prov_id": 81,
+    "kab_name": "KABUPATEN MALUKU TENGAH"
+  },
+  {
+    "kab_id": 8104,
+    "prov_id": 81,
+    "kab_name": "KABUPATEN BURU"
+  },
+  {
+    "kab_id": 8105,
+    "prov_id": 81,
+    "kab_name": "KABUPATEN KEPULAUAN ARU"
+  },
+  {
+    "kab_id": 8106,
+    "prov_id": 81,
+    "kab_name": "KABUPATEN SERAM BAGIAN BARAT"
+  },
+  {
+    "kab_id": 8107,
+    "prov_id": 81,
+    "kab_name": "KABUPATEN SERAM BAGIAN TIMUR"
+  },
+  {
+    "kab_id": 8108,
+    "prov_id": 81,
+    "kab_name": "KABUPATEN MALUKU BARAT DAYA"
+  },
+  {
+    "kab_id": 8109,
+    "prov_id": 81,
+    "kab_name": "KABUPATEN BURU SELATAN"
+  },
+  {
+    "kab_id": 8171,
+    "prov_id": 81,
+    "kab_name": "KOTA AMBON"
+  },
+  {
+    "kab_id": 8172,
+    "prov_id": 81,
+    "kab_name": "KOTA TUAL"
+  },
+  {
+    "kab_id": 8201,
+    "prov_id": 82,
+    "kab_name": "KABUPATEN HALMAHERA BARAT"
+  },
+  {
+    "kab_id": 8202,
+    "prov_id": 82,
+    "kab_name": "KABUPATEN HALMAHERA TENGAH"
+  },
+  {
+    "kab_id": 8203,
+    "prov_id": 82,
+    "kab_name": "KABUPATEN KEPULAUAN SULA"
+  },
+  {
+    "kab_id": 8204,
+    "prov_id": 82,
+    "kab_name": "KABUPATEN HALMAHERA SELATAN"
+  },
+  {
+    "kab_id": 8205,
+    "prov_id": 82,
+    "kab_name": "KABUPATEN HALMAHERA UTARA"
+  },
+  {
+    "kab_id": 8206,
+    "prov_id": 82,
+    "kab_name": "KABUPATEN HALMAHERA TIMUR"
+  },
+  {
+    "kab_id": 8207,
+    "prov_id": 82,
+    "kab_name": "KABUPATEN PULAU MOROTAI"
+  },
+  {
+    "kab_id": 8208,
+    "prov_id": 82,
+    "kab_name": "KABUPATEN PULAU TALIABU"
+  },
+  {
+    "kab_id": 8271,
+    "prov_id": 82,
+    "kab_name": "KOTA TERNATE"
+  },
+  {
+    "kab_id": 8272,
+    "prov_id": 82,
+    "kab_name": "KOTA TIDORE KEPULAUAN"
+  },
+  {
+    "kab_id": 9101,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN FAKFAK"
+  },
+  {
+    "kab_id": 9102,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN KAIMANA"
+  },
+  {
+    "kab_id": 9103,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN TELUK WONDAMA"
+  },
+  {
+    "kab_id": 9104,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN TELUK BINTUNI"
+  },
+  {
+    "kab_id": 9105,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN MANOKWARI"
+  },
+  {
+    "kab_id": 9106,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN SORONG SELATAN"
+  },
+  {
+    "kab_id": 9107,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN SORONG"
+  },
+  {
+    "kab_id": 9108,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN RAJA AMPAT"
+  },
+  {
+    "kab_id": 9109,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN TAMBRAUW"
+  },
+  {
+    "kab_id": 9110,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN MAYBRAT"
+  },
+  {
+    "kab_id": 9111,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN MANOKWARI SELATAN"
+  },
+  {
+    "kab_id": 9112,
+    "prov_id": 91,
+    "kab_name": "KABUPATEN PEGUNUNGAN ARFAK"
+  },
+  {
+    "kab_id": 9171,
+    "prov_id": 91,
+    "kab_name": "KOTA SORONG"
+  },
+  {
+    "kab_id": 9401,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN MERAUKE"
+  },
+  {
+    "kab_id": 9402,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN JAYAWIJAYA"
+  },
+  {
+    "kab_id": 9403,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN JAYAPURA"
+  },
+  {
+    "kab_id": 9404,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN NABIRE"
+  },
+  {
+    "kab_id": 9408,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN KEPULAUAN YAPEN"
+  },
+  {
+    "kab_id": 9409,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN BIAK NUMFOR"
+  },
+  {
+    "kab_id": 9410,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN PANIAI"
+  },
+  {
+    "kab_id": 9411,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN PUNCAK JAYA"
+  },
+  {
+    "kab_id": 9412,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN MIMIKA"
+  },
+  {
+    "kab_id": 9413,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN BOVEN DIGOEL"
+  },
+  {
+    "kab_id": 9414,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN MAPPI"
+  },
+  {
+    "kab_id": 9415,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN ASMAT"
+  },
+  {
+    "kab_id": 9416,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN YAHUKIMO"
+  },
+  {
+    "kab_id": 9417,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN PEGUNUNGAN BINTANG"
+  },
+  {
+    "kab_id": 9418,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN TOLIKARA"
+  },
+  {
+    "kab_id": 9419,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN SARMI"
+  },
+  {
+    "kab_id": 9420,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN KEEROM"
+  },
+  {
+    "kab_id": 9426,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN WAROPEN"
+  },
+  {
+    "kab_id": 9427,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN SUPIORI"
+  },
+  {
+    "kab_id": 9428,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN MAMBERAMO RAYA"
+  },
+  {
+    "kab_id": 9429,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN NDUGA"
+  },
+  {
+    "kab_id": 9430,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN LANNY JAYA"
+  },
+  {
+    "kab_id": 9431,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN MAMBERAMO TENGAH"
+  },
+  {
+    "kab_id": 9432,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN YALIMO"
+  },
+  {
+    "kab_id": 9433,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN PUNCAK"
+  },
+  {
+    "kab_id": 9434,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN DOGIYAI"
+  },
+  {
+    "kab_id": 9435,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN INTAN JAYA"
+  },
+  {
+    "kab_id": 9436,
+    "prov_id": 94,
+    "kab_name": "KABUPATEN DEIYAI"
+  },
+  {
+    "kab_id": 9471,
+    "prov_id": 94,
+    "kab_name": "KOTA JAYAPURA"
+  }
+]

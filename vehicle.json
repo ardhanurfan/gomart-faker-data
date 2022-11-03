@@ -1,0 +1,1503 @@
+{
+"vehicle": [
+	{
+		"license_plate" : "A1266JT",
+		"type" : "Scoopy",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "A1320LZ",
+		"type" : "Scoopy",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "A1325PV",
+		"type" : "Xeon",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "A1680CX",
+		"type" : "Jupyter MX",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "A3659XB",
+		"type" : "Jupyter MX",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "A3674IY",
+		"type" : "NMAX",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "A4111EL",
+		"type" : "CBR250RR",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "A4240OE",
+		"type" : "Jupyter MX",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "A4645YO",
+		"type" : "Aerox 155",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "A4864OH",
+		"type" : "CBR250RR",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "A5338HD",
+		"type" : "CBR250RR",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "A7532ON",
+		"type" : "Scoopy",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "A7644PO",
+		"type" : "BeAT",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AA1289RE",
+		"type" : "CBR250RR",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "AA1413TG",
+		"type" : "CBR250RR",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AA1436UD",
+		"type" : "KLX 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AA1871IB",
+		"type" : "Genio",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AA2079UO",
+		"type" : "Aerox 155",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AA2124OI",
+		"type" : "New Revo X",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "AA2685SE",
+		"type" : "Aerox 155",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "AA2910CZ",
+		"type" : "BeAT",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "AA3165IM",
+		"type" : "Scoopy",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "AA3436DC",
+		"type" : "Aerox 155",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "AA3500SA",
+		"type" : "BeAT",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "AA3643AW",
+		"type" : "NMAX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "AA3834ZR",
+		"type" : "Jupyter MX",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "AA4203DA",
+		"type" : "Genio",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "AA4480VW",
+		"type" : "CBR250RR",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AA4745EB",
+		"type" : "Xeon",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "AA5177AS",
+		"type" : "BeAT",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "AA5475JZ",
+		"type" : "KLX 150",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "AA7045IG",
+		"type" : "KLX 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "AA7739WP",
+		"type" : "NMAX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "AB1805LQ",
+		"type" : "Scoopy",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AB2235EU",
+		"type" : "Aerox 155",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "AB2616SE",
+		"type" : "New Revo X",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "AB3215KP",
+		"type" : "Xeon",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AB3679QK",
+		"type" : "Vario 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "AB4031JB",
+		"type" : "Scoopy",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "AB4133FV",
+		"type" : "NMAX",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "AB4415LN",
+		"type" : "Scoopy",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "AB4955ZC",
+		"type" : "New Revo X",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AB5489TA",
+		"type" : "Vario 125",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AB6510MB",
+		"type" : "KLX 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "AB6722VT",
+		"type" : "Vario 150",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "AB6810ZF",
+		"type" : "ADV 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "AB6993DY",
+		"type" : "CBR250RR",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "AB7283FL",
+		"type" : "CBR250RR",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "AD1584MU",
+		"type" : "KLX 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "AD1933ZX",
+		"type" : "ADV 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "AD1957QL",
+		"type" : "ADV 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AD2500WC",
+		"type" : "Genio",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "AD3395DY",
+		"type" : "Jupyter MX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AD3608PX",
+		"type" : "Genio",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AD3661RG",
+		"type" : "NMAX",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "AD4708VA",
+		"type" : "Aerox 155",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AD4898WD",
+		"type" : "Genio",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "AD4953JM",
+		"type" : "CBR250RR",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "AD5021AT",
+		"type" : "ADV 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AD5027GX",
+		"type" : "Genio",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "AD5208BY",
+		"type" : "Aerox 155",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "AD5436MF",
+		"type" : "NMAX",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "AD5610GV",
+		"type" : "BeAT",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "AD6620DH",
+		"type" : "Xeon",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "AD7157SL",
+		"type" : "Genio",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AD7298DW",
+		"type" : "Genio",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "AD7576VO",
+		"type" : "NMAX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "AD7671TM",
+		"type" : "Vario 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "B1810UG",
+		"type" : "CBR250RR",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "B2228OE",
+		"type" : "BeAT",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "B3401PF",
+		"type" : "Xeon",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "B3463EG",
+		"type" : "Xeon",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "B3914MI",
+		"type" : "KLX 150",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "B4427QK",
+		"type" : "New Revo X",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "B4524OK",
+		"type" : "BeAT",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "B6178FB",
+		"type" : "New Revo X",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "B6331CB",
+		"type" : "Jupyter MX",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "B6744UO",
+		"type" : "Scoopy",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "B7575GD",
+		"type" : "BeAT",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "BH1934DT",
+		"type" : "Xeon",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "BH2260UZ",
+		"type" : "NMAX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "BH4134KS",
+		"type" : "Xeon",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "BH4358BE",
+		"type" : "BeAT",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "BH4373HY",
+		"type" : "New Revo X",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "BH5843YK",
+		"type" : "CBR250RR",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "BH6484AT",
+		"type" : "BeAT",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "BH6533XE",
+		"type" : "Vario 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "BH7116ZR",
+		"type" : "NMAX",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "BH7598AN",
+		"type" : "Scoopy",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "BH7624PQ",
+		"type" : "Vario 125",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "BH7645EC",
+		"type" : "KLX 150",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "C1242UF",
+		"type" : "ADV 150",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "C1495XO",
+		"type" : "ADV 150",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "C1721SY",
+		"type" : "New Revo X",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "C1772KG",
+		"type" : "Jupyter MX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "C1981QK",
+		"type" : "Scoopy",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "C1997TH",
+		"type" : "Scoopy",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "C2186JS",
+		"type" : "KLX 150",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "C2385UK",
+		"type" : "NMAX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "C3394HS",
+		"type" : "BeAT",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "C3438EU",
+		"type" : "ADV 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "C4494MF",
+		"type" : "Vario 150",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "C5274MT",
+		"type" : "KLX 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "C5285CU",
+		"type" : "Vario 150",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "C5786PE",
+		"type" : "BeAT",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "C6727QA",
+		"type" : "New Revo X",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "C6891VH",
+		"type" : "NMAX",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "C7149BF",
+		"type" : "Jupyter MX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "C7204FO",
+		"type" : "KLX 150",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "C7500XP",
+		"type" : "Jupyter MX",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "C7830FM",
+		"type" : "Scoopy",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "D2130US",
+		"type" : "New Revo X",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "D2354ZP",
+		"type" : "NMAX",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "D2690FP",
+		"type" : "NMAX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "D3398YA",
+		"type" : "BeAT",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "D3668HQ",
+		"type" : "Xeon",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "D4380PD",
+		"type" : "Aerox 155",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "D4945UL",
+		"type" : "Jupyter MX",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "D4951XD",
+		"type" : "NMAX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "D5088LH",
+		"type" : "KLX 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "D6027AY",
+		"type" : "Vario 125",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "D6446KS",
+		"type" : "Vario 125",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "D6541IR",
+		"type" : "ADV 150",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "D6805TJ",
+		"type" : "Xeon",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "D6985IF",
+		"type" : "NMAX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "D7123HC",
+		"type" : "Genio",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "D7621XE",
+		"type" : "Vario 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "DK1719WM",
+		"type" : "Xeon",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "DK2399MN",
+		"type" : "Scoopy",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "DK2494AP",
+		"type" : "Xeon",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "DK2626CH",
+		"type" : "Vario 150",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "DK3005TE",
+		"type" : "Xeon",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "DK3017FM",
+		"type" : "Xeon",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "DK3357DL",
+		"type" : "KLX 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "DK5187HJ",
+		"type" : "Jupyter MX",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "DK5252HO",
+		"type" : "KLX 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "DK5789XA",
+		"type" : "Aerox 155",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "DK6193VM",
+		"type" : "KLX 150",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "DK6457XA",
+		"type" : "Xeon",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "DK7193ZG",
+		"type" : "Aerox 155",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "DK7800BZ",
+		"type" : "BeAT",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "E1264AY",
+		"type" : "CBR250RR",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "E1850IJ",
+		"type" : "Jupyter MX",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "E2137OZ",
+		"type" : "Scoopy",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "E2564IA",
+		"type" : "New Revo X",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "E2750JM",
+		"type" : "Vario 150",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "E2813CX",
+		"type" : "Genio",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "E2856GR",
+		"type" : "Jupyter MX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "E3233CY",
+		"type" : "ADV 150",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "E3245GW",
+		"type" : "ADV 150",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "E3373AR",
+		"type" : "Xeon",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "E3392EZ",
+		"type" : "CBR250RR",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "E3655LF",
+		"type" : "NMAX",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "E3954FW",
+		"type" : "Aerox 155",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "E4998OW",
+		"type" : "Genio",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "E5601UC",
+		"type" : "KLX 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "E5748UE",
+		"type" : "ADV 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "E6324TU",
+		"type" : "NMAX",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "E6519HL",
+		"type" : "NMAX",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "E6767HV",
+		"type" : "NMAX",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "E6813AJ",
+		"type" : "NMAX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "E6897YT",
+		"type" : "Vario 125",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "E7726WM",
+		"type" : "Vario 125",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "F1480JH",
+		"type" : "Genio",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "F1803SN",
+		"type" : "Xeon",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "F1882PH",
+		"type" : "CBR250RR",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "F1945UT",
+		"type" : "Jupyter MX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "F1963FA",
+		"type" : "NMAX",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "F2006FY",
+		"type" : "Scoopy",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "F3141CQ",
+		"type" : "BeAT",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "F5123EM",
+		"type" : "Scoopy",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "F6814AO",
+		"type" : "ADV 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "F7054HJ",
+		"type" : "Jupyter MX",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "F7302RK",
+		"type" : "KLX 150",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "F7437OC",
+		"type" : "Jupyter MX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "F7554NO",
+		"type" : "CBR250RR",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "F7642BT",
+		"type" : "Aerox 155",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "G1286HB",
+		"type" : "Genio",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "G1352SM",
+		"type" : "NMAX",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "G1369WD",
+		"type" : "BeAT",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "G1499CG",
+		"type" : "New Revo X",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "G1668KY",
+		"type" : "Jupyter MX",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "G1806PF",
+		"type" : "Jupyter MX",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "G1901PJ",
+		"type" : "Scoopy",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "G2658BQ",
+		"type" : "Vario 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "G2837OV",
+		"type" : "KLX 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "G3086AE",
+		"type" : "CBR250RR",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "G3101FS",
+		"type" : "ADV 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "G3852TR",
+		"type" : "KLX 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "G4323KA",
+		"type" : "Vario 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "G4425IU",
+		"type" : "New Revo X",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "G4762KA",
+		"type" : "New Revo X",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "G5010UX",
+		"type" : "Scoopy",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "G5061CX",
+		"type" : "Vario 125",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "G6025DH",
+		"type" : "New Revo X",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "G6324IY",
+		"type" : "CBR250RR",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "G6341EL",
+		"type" : "Genio",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "G7349AZ",
+		"type" : "CBR250RR",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "J2370DX",
+		"type" : "NMAX",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "J2551DH",
+		"type" : "Aerox 155",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "J2834MI",
+		"type" : "ADV 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "J2874OF",
+		"type" : "Vario 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "J3015NI",
+		"type" : "Scoopy",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "J3659ZP",
+		"type" : "Scoopy",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "J5869BF",
+		"type" : "Vario 150",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "J6697BC",
+		"type" : "Jupyter MX",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "J6935PC",
+		"type" : "Jupyter MX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "J7091KH",
+		"type" : "New Revo X",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "J7774OA",
+		"type" : "ADV 150",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "K1236SB",
+		"type" : "Jupyter MX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "K1681WY",
+		"type" : "Aerox 155",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "K1687YF",
+		"type" : "Vario 125",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "K1950ZW",
+		"type" : "ADV 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "K2056GN",
+		"type" : "Xeon",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "K2117UZ",
+		"type" : "Vario 125",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "K3001OR",
+		"type" : "BeAT",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "K3446IQ",
+		"type" : "BeAT",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "K3752FK",
+		"type" : "Genio",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "K3985BD",
+		"type" : "Vario 150",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "K4424SH",
+		"type" : "Aerox 155",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "K4789MD",
+		"type" : "KLX 150",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "K5222DK",
+		"type" : "New Revo X",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "K5737OX",
+		"type" : "KLX 150",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "K6547DU",
+		"type" : "BeAT",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "K6569TV",
+		"type" : "Aerox 155",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "K6660UG",
+		"type" : "Vario 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "K6689TK",
+		"type" : "Jupyter MX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "K6867MT",
+		"type" : "Genio",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "K6954AM",
+		"type" : "Aerox 155",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "K7417KB",
+		"type" : "KLX 150",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "K7619QV",
+		"type" : "BeAT",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "K7686WH",
+		"type" : "CBR250RR",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "K7819OC",
+		"type" : "NMAX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "L1704XR",
+		"type" : "Aerox 155",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "L1746JV",
+		"type" : "New Revo X",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "L1869VT",
+		"type" : "Scoopy",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "L2482LD",
+		"type" : "KLX 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "L2497JX",
+		"type" : "Scoopy",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "L2823VH",
+		"type" : "KLX 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "L3315NI",
+		"type" : "New Revo X",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "L3929RT",
+		"type" : "Genio",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "L5009YP",
+		"type" : "Jupyter MX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "L5340JH",
+		"type" : "Xeon",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "L6066VD",
+		"type" : "KLX 150",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "L6239HU",
+		"type" : "CBR250RR",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "L6497QF",
+		"type" : "Genio",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "L7239YK",
+		"type" : "Jupyter MX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "L7446IQ",
+		"type" : "NMAX",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "L7533OD",
+		"type" : "Scoopy",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "L7542ON",
+		"type" : "Vario 125",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "M1602JZ",
+		"type" : "Scoopy",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "M2444OP",
+		"type" : "Vario 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "M2515UA",
+		"type" : "Genio",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "M2542LJ",
+		"type" : "Scoopy",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "M3601JX",
+		"type" : "KLX 150",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "M3926XA",
+		"type" : "KLX 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "M3929GI",
+		"type" : "BeAT",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "M4066HA",
+		"type" : "BeAT",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "M4072DL",
+		"type" : "BeAT",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "M4074YR",
+		"type" : "Jupyter MX",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "M4615FK",
+		"type" : "Jupyter MX",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "M5184MD",
+		"type" : "Scoopy",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "M5231UA",
+		"type" : "CBR250RR",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "M5520PH",
+		"type" : "NMAX",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "M6185XV",
+		"type" : "Xeon",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "M6551PW",
+		"type" : "ADV 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "M7735EA",
+		"type" : "Xeon",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "W1387NW",
+		"type" : "Vario 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "W1743CP",
+		"type" : "Aerox 155",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "W3332YH",
+		"type" : "NMAX",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "W3599WI",
+		"type" : "KLX 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "W3824FC",
+		"type" : "Vario 150",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "W4684XD",
+		"type" : "CBR250RR",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "W4714OH",
+		"type" : "Vario 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "W5000EN",
+		"type" : "ADV 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "W5157SE",
+		"type" : "New Revo X",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "W5281JK",
+		"type" : "NMAX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "W6104HK",
+		"type" : "Genio",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "W6155HE",
+		"type" : "Genio",
+		"color" : "Brown"
+	},
+	{
+		"license_plate" : "W6820FH",
+		"type" : "Vario 150",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "W6972US",
+		"type" : "New Revo X",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "W7107NY",
+		"type" : "BeAT",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "W7384PZ",
+		"type" : "KLX 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "Z1693FS",
+		"type" : "NMAX",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "Z2421AQ",
+		"type" : "Vario 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "Z3157KB",
+		"type" : "Vario 150",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "Z3203PD",
+		"type" : "NMAX",
+		"color" : "Silver"
+	},
+	{
+		"license_plate" : "Z3842HT",
+		"type" : "CBR250RR",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "Z3886CH",
+		"type" : "Jupyter MX",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "Z4317VF",
+		"type" : "CBR250RR",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "Z5421SL",
+		"type" : "ADV 150",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "Z5465ZW",
+		"type" : "Vario 125",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "Z5545XT",
+		"type" : "Genio",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "Z5551PQ",
+		"type" : "Xeon",
+		"color" : "Yellow"
+	},
+	{
+		"license_plate" : "Z6684WL",
+		"type" : "BeAT",
+		"color" : "Black"
+	},
+	{
+		"license_plate" : "Z6729YG",
+		"type" : "Xeon",
+		"color" : "Navy"
+	},
+	{
+		"license_plate" : "Z6833PT",
+		"type" : "ADV 150",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "Z6861DA",
+		"type" : "Genio",
+		"color" : "Red"
+	},
+	{
+		"license_plate" : "Z7189VJ",
+		"type" : "Xeon",
+		"color" : "White"
+	},
+	{
+		"license_plate" : "Z7691MY",
+		"type" : "ADV 150",
+		"color" : "Navy"
+	}
+]}

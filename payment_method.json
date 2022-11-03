@@ -1,0 +1,1202 @@
+[
+  {
+    "payment_id": 1,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 2,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 2,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 3,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 4,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 4,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 5,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 6,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 7,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 8,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 9,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 9,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 10,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 11,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 12,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 13,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 14,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 14,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 15,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 16,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 16,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 17,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 17,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 18,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 18,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 19,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 20,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 20,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 21,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 21,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 22,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 22,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 23,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 23,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 24,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 24,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 25,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 26,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 26,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 27,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 27,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 28,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 29,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 29,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 30,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 31,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 31,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 32,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 33,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 33,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 34,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 35,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 36,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 37,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 37,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 38,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 38,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 39,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 39,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 40,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 41,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 42,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 42,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 43,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 43,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 44,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 45,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 46,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 47,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 47,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 48,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 49,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 50,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 50,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 51,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 52,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 53,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 53,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 54,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 55,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 56,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 57,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 57,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 58,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 58,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 59,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 60,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 60,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 61,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 62,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 62,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 63,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 64,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 64,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 65,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 66,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 67,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 67,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 68,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 69,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 70,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 70,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 71,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 71,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 72,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 73,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 74,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 74,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 75,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 75,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 76,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 77,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 78,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 79,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 79,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 80,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 80,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 81,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 82,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 83,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 83,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 84,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 84,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 85,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 85,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 86,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 86,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 87,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 88,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 88,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 89,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 90,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 91,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 92,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 93,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 93,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 94,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 94,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 95,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 96,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 96,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 97,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 97,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 98,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 98,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 99,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 100,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 101,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 102,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 103,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 103,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 104,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 104,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 105,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 105,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 106,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 106,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 107,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 107,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 108,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 108,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 109,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 109,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 110,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 110,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 111,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 111,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 112,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 112,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 113,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 113,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 114,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 114,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 115,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 115,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 116,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 116,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 117,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 118,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 119,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 119,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 120,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 121,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 121,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 122,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 122,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 123,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 124,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 125,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 125,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 126,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 127,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 128,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 129,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 129,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 130,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 131,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 132,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 133,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 134,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 134,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 135,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 135,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 136,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 137,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 138,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 138,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 139,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 140,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 140,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 141,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 141,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 142,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 142,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 143,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 143,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 144,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 144,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 145,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 145,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 146,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 147,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 148,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 148,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 149,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 149,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 150,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 150,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 151,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 152,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 153,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 153,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 154,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 155,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 155,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 156,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 156,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 157,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 157,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 158,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 159,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 160,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 161,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 161,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 162,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 162,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 163,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 164,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 165,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 166,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 167,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 167,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 168,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 168,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 169,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 169,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 170,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 170,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 171,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 171,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 172,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 172,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 173,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 174,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 175,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 176,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 176,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 177,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 178,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 178,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 179,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 179,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 180,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 181,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 181,
+    "type": "Kartu Debit/Kredit"
+  },
+  {
+    "payment_id": 182,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 182,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 183,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 184,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 185,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 185,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 186,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 186,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 187,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 187,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 188,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 189,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 190,
+    "type": "LinkAja"
+  },
+  {
+    "payment_id": 191,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 192,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 193,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 194,
+    "type": "GopayLater"
+  },
+  {
+    "payment_id": 194,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 195,
+    "type": "JagoBank"
+  },
+  {
+    "payment_id": 196,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 196,
+    "type": "Gopay Coins"
+  },
+  {
+    "payment_id": 197,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 198,
+    "type": "Gopay"
+  },
+  {
+    "payment_id": 199,
+    "type": "Tunai"
+  },
+  {
+    "payment_id": 200,
+    "type": "GopayLater"
+  }
+]

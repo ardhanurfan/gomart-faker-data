@@ -1,0 +1,4070 @@
+[
+  {
+    "item_id": 1,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 2,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 3,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 4,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 5,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 6,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 7,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 8,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 9,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 10,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 11,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 12,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 13,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 14,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 15,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 16,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 17,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 18,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 19,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 20,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 21,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 22,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 23,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 24,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 25,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 26,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 27,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 28,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 29,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 30,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 31,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 31,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 32,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 33,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 34,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 35,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 36,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 37,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 38,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 39,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 40,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 41,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 41,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 42,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 43,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 44,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 45,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 46,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 47,
+    "category": "Madu"
+  },
+  {
+    "item_id": 48,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 49,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 50,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 51,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 52,
+    "category": "Madu"
+  },
+  {
+    "item_id": 53,
+    "category": "Buku"
+  },
+  {
+    "item_id": 54,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 55,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 56,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 57,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 58,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 59,
+    "category": "Buku"
+  },
+  {
+    "item_id": 60,
+    "category": "Buku"
+  },
+  {
+    "item_id": 61,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 62,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 63,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 64,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 65,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 66,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 67,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 68,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 69,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 70,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 71,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 72,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 73,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 74,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 75,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 76,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 77,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 78,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 79,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 80,
+    "category": "Madu"
+  },
+  {
+    "item_id": 81,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 82,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 83,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 84,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 85,
+    "category": "Buku"
+  },
+  {
+    "item_id": 86,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 87,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 88,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 89,
+    "category": "Buku"
+  },
+  {
+    "item_id": 90,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 91,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 92,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 93,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 94,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 95,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 96,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 97,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 98,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 99,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 100,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 101,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 102,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 103,
+    "category": "Telur"
+  },
+  {
+    "item_id": 104,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 105,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 106,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 107,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 108,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 109,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 110,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 111,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 112,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 113,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 114,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 115,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 116,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 117,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 118,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 119,
+    "category": "Beras"
+  },
+  {
+    "item_id": 120,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 121,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 122,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 123,
+    "category": "Telur"
+  },
+  {
+    "item_id": 124,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 125,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 126,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 127,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 128,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 129,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 130,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 131,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 132,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 133,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 134,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 135,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 136,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 137,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 138,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 139,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 140,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 141,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 142,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 143,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 144,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 145,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 146,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 147,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 148,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 149,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 150,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 151,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 152,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 153,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 154,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 155,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 156,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 157,
+    "category": "Madu"
+  },
+  {
+    "item_id": 158,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 159,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 160,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 161,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 162,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 163,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 164,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 165,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 166,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 167,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 168,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 169,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 170,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 171,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 172,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 173,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 174,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 175,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 176,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 177,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 178,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 179,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 180,
+    "category": "Beras"
+  },
+  {
+    "item_id": 181,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 182,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 183,
+    "category": "Buku"
+  },
+  {
+    "item_id": 184,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 185,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 186,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 187,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 188,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 189,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 190,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 191,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 192,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 193,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 194,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 195,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 196,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 197,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 198,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 199,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 200,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 201,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 202,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 203,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 204,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 205,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 206,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 207,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 208,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 209,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 210,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 211,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 212,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 213,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 214,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 215,
+    "category": "Telur"
+  },
+  {
+    "item_id": 216,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 217,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 218,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 219,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 220,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 221,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 222,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 223,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 224,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 225,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 226,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 227,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 228,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 229,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 230,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 231,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 232,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 233,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 234,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 235,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 236,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 237,
+    "category": "Telur"
+  },
+  {
+    "item_id": 238,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 239,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 240,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 241,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 242,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 243,
+    "category": "Beras"
+  },
+  {
+    "item_id": 244,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 245,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 246,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 247,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 248,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 249,
+    "category": "Telur"
+  },
+  {
+    "item_id": 250,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 251,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 252,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 253,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 254,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 255,
+    "category": "Madu"
+  },
+  {
+    "item_id": 256,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 257,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 258,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 259,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 260,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 261,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 262,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 263,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 264,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 265,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 266,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 267,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 268,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 269,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 270,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 271,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 272,
+    "category": "Beras"
+  },
+  {
+    "item_id": 273,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 274,
+    "category": "Madu"
+  },
+  {
+    "item_id": 275,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 276,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 277,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 278,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 279,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 280,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 281,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 282,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 283,
+    "category": "Madu"
+  },
+  {
+    "item_id": 284,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 285,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 286,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 287,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 288,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 289,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 290,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 291,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 292,
+    "category": "Telur"
+  },
+  {
+    "item_id": 293,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 294,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 295,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 296,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 297,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 298,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 299,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 300,
+    "category": "Telur"
+  },
+  {
+    "item_id": 301,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 302,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 303,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 304,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 304,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 305,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 306,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 307,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 308,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 309,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 310,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 311,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 312,
+    "category": "Telur"
+  },
+  {
+    "item_id": 313,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 314,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 315,
+    "category": "Beras"
+  },
+  {
+    "item_id": 316,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 317,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 318,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 319,
+    "category": "Buku"
+  },
+  {
+    "item_id": 320,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 321,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 322,
+    "category": "Buku"
+  },
+  {
+    "item_id": 323,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 324,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 325,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 326,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 327,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 328,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 329,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 330,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 331,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 332,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 333,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 334,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 335,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 336,
+    "category": "Madu"
+  },
+  {
+    "item_id": 337,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 338,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 339,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 340,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 341,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 342,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 343,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 344,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 345,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 346,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 347,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 348,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 349,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 350,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 351,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 352,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 353,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 354,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 355,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 356,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 357,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 358,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 359,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 360,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 361,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 362,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 363,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 364,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 365,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 366,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 367,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 368,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 369,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 370,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 371,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 372,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 373,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 374,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 375,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 376,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 377,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 378,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 379,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 380,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 381,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 382,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 383,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 384,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 385,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 386,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 387,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 388,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 389,
+    "category": "Telur"
+  },
+  {
+    "item_id": 390,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 391,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 392,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 393,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 394,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 395,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 396,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 397,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 398,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 399,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 400,
+    "category": "Madu"
+  },
+  {
+    "item_id": 401,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 402,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 403,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 403,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 404,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 405,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 406,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 407,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 408,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 409,
+    "category": "Buku"
+  },
+  {
+    "item_id": 410,
+    "category": "Madu"
+  },
+  {
+    "item_id": 411,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 412,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 413,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 414,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 415,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 416,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 417,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 418,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 419,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 420,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 421,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 422,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 423,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 424,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 425,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 426,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 427,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 428,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 429,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 430,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 431,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 432,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 433,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 434,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 434,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 435,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 435,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 436,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 437,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 438,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 439,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 440,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 441,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 442,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 443,
+    "category": "Madu"
+  },
+  {
+    "item_id": 444,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 445,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 446,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 447,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 448,
+    "category": "Madu"
+  },
+  {
+    "item_id": 449,
+    "category": "Buku"
+  },
+  {
+    "item_id": 450,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 451,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 452,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 453,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 453,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 454,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 455,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 456,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 457,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 458,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 459,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 459,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 460,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 461,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 462,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 463,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 464,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 465,
+    "category": "Buku"
+  },
+  {
+    "item_id": 466,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 467,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 468,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 469,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 470,
+    "category": "Buku"
+  },
+  {
+    "item_id": 471,
+    "category": "Beras"
+  },
+  {
+    "item_id": 472,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 473,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 474,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 475,
+    "category": "Madu"
+  },
+  {
+    "item_id": 476,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 477,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 478,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 479,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 480,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 481,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 482,
+    "category": "Telur"
+  },
+  {
+    "item_id": 483,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 484,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 485,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 486,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 487,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 488,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 489,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 490,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 491,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 492,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 493,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 494,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 495,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 496,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 497,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 498,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 499,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 500,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 501,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 502,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 503,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 503,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 504,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 505,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 506,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 507,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 508,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 509,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 509,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 510,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 511,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 512,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 513,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 514,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 515,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 516,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 517,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 518,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 519,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 520,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 521,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 522,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 523,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 524,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 525,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 526,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 527,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 528,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 529,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 530,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 531,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 532,
+    "category": "Beras"
+  },
+  {
+    "item_id": 533,
+    "category": "kecap"
+  },
+  {
+    "item_id": 534,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 535,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 536,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 537,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 538,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 539,
+    "category": "Buku"
+  },
+  {
+    "item_id": 540,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 541,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 542,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 543,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 544,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 545,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 546,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 547,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 548,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 549,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 550,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 551,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 552,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 553,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 554,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 555,
+    "category": "Buku"
+  },
+  {
+    "item_id": 556,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 557,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 558,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 559,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 560,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 561,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 562,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 563,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 564,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 565,
+    "category": "Telur"
+  },
+  {
+    "item_id": 566,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 567,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 568,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 569,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 570,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 570,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 571,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 572,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 573,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 574,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 575,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 576,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 577,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 578,
+    "category": "kecap"
+  },
+  {
+    "item_id": 579,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 580,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 581,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 582,
+    "category": "Telur"
+  },
+  {
+    "item_id": 583,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 584,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 585,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 586,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 587,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 588,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 589,
+    "category": "kecap"
+  },
+  {
+    "item_id": 590,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 591,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 592,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 593,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 594,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 595,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 596,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 597,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 598,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 599,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 600,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 601,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 602,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 603,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 604,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 605,
+    "category": "Madu"
+  },
+  {
+    "item_id": 606,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 607,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 608,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 608,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 609,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 610,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 611,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 612,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 613,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 614,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 615,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 616,
+    "category": "Madu"
+  },
+  {
+    "item_id": 617,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 618,
+    "category": "Buku"
+  },
+  {
+    "item_id": 619,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 620,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 621,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 622,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 623,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 624,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 625,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 626,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 627,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 628,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 629,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 630,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 631,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 632,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 633,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 634,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 635,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 636,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 637,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 638,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 639,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 640,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 641,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 642,
+    "category": "Madu"
+  },
+  {
+    "item_id": 643,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 644,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 645,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 646,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 647,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 648,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 649,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 650,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 651,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 652,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 653,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 654,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 655,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 656,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 657,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 658,
+    "category": "Buku"
+  },
+  {
+    "item_id": 659,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 660,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 661,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 662,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 663,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 664,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 665,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 666,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 667,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 668,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 669,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 670,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 671,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 672,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 673,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 674,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 675,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 676,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 677,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 678,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 679,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 680,
+    "category": "Madu"
+  },
+  {
+    "item_id": 681,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 682,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 683,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 684,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 685,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 686,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 687,
+    "category": "Telur"
+  },
+  {
+    "item_id": 688,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 689,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 690,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 691,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 692,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 693,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 694,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 695,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 696,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 697,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 698,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 699,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 700,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 701,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 702,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 703,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 704,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 705,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 706,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 707,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 707,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 708,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 709,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 710,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 711,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 712,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 713,
+    "category": "Telur"
+  },
+  {
+    "item_id": 714,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 715,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 716,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 717,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 718,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 719,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 719,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 720,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 721,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 722,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 723,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 724,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 724,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 725,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 726,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 727,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 728,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 729,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 730,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 731,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 732,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 733,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 734,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 735,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 736,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 737,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 738,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 739,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 740,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 741,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 742,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 743,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 744,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 745,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 746,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 747,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 748,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 749,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 750,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 751,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 752,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 753,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 754,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 755,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 756,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 757,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 758,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 759,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 760,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 761,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 762,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 762,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 763,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 764,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 765,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 766,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 767,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 768,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 769,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 770,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 771,
+    "category": "Telur"
+  },
+  {
+    "item_id": 772,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 773,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 774,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 775,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 776,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 777,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 778,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 779,
+    "category": "Telur"
+  },
+  {
+    "item_id": 780,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 781,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 782,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 783,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 784,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 785,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 786,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 787,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 788,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 789,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 790,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 791,
+    "category": "Beras"
+  },
+  {
+    "item_id": 792,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 793,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 794,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 795,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 796,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 797,
+    "category": "Buku"
+  },
+  {
+    "item_id": 798,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 799,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 800,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 801,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 802,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 803,
+    "category": "Telur"
+  },
+  {
+    "item_id": 804,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 805,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 806,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 807,
+    "category": "Madu"
+  },
+  {
+    "item_id": 808,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 809,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 810,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 811,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 812,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 813,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 814,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 815,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 816,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 817,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 818,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 819,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 820,
+    "category": "Buku"
+  },
+  {
+    "item_id": 821,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 822,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 823,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 824,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 825,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 826,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 827,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 828,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 829,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 830,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 831,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 832,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 833,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 834,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 835,
+    "category": "Buku"
+  },
+  {
+    "item_id": 836,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 837,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 838,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 839,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 840,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 841,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 842,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 843,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 844,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 845,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 846,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 847,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 848,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 849,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 850,
+    "category": "Beras"
+  },
+  {
+    "item_id": 851,
+    "category": "Madu"
+  },
+  {
+    "item_id": 852,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 853,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 854,
+    "category": "Telur"
+  },
+  {
+    "item_id": 855,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 856,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 857,
+    "category": "Beras"
+  },
+  {
+    "item_id": 858,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 859,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 860,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 861,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 862,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 863,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 864,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 865,
+    "category": "Madu"
+  },
+  {
+    "item_id": 866,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 867,
+    "category": "Madu"
+  },
+  {
+    "item_id": 868,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 869,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 870,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 871,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 872,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 873,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 874,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 875,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 876,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 877,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 878,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 879,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 880,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 881,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 882,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 883,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 884,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 885,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 886,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 887,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 888,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 889,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 890,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 891,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 892,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 893,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 894,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 895,
+    "category": "Selotip & Double Tape"
+  },
+  {
+    "item_id": 896,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 897,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 898,
+    "category": "Deodoran"
+  },
+  {
+    "item_id": 899,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 900,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 901,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 902,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 903,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 904,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 905,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 906,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 907,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 908,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 909,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 910,
+    "category": "Beras"
+  },
+  {
+    "item_id": 911,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 912,
+    "category": "Beras"
+  },
+  {
+    "item_id": 913,
+    "category": "Tisu Wajah"
+  },
+  {
+    "item_id": 914,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 915,
+    "category": "Beras"
+  },
+  {
+    "item_id": 916,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 917,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 918,
+    "category": "Sikat Gigi"
+  },
+  {
+    "item_id": 919,
+    "category": "Madu"
+  },
+  {
+    "item_id": 920,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 921,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 922,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 923,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 924,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 925,
+    "category": "Kopi Bubuk"
+  },
+  {
+    "item_id": 926,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 927,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 928,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 929,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 930,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 931,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 932,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 933,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 934,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 935,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 936,
+    "category": "Masker Medis"
+  },
+  {
+    "item_id": 936,
+    "category": "Kesehatan"
+  },
+  {
+    "item_id": 937,
+    "category": "Madu"
+  },
+  {
+    "item_id": 938,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 939,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 940,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 941,
+    "category": "Susu Cair"
+  },
+  {
+    "item_id": 942,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 943,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 944,
+    "category": "Minuman Berkarbonasi"
+  },
+  {
+    "item_id": 945,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 946,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 947,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 948,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 949,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 950,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 951,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 952,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 953,
+    "category": "Telur"
+  },
+  {
+    "item_id": 954,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 955,
+    "category": "Mentega & Margarin"
+  },
+  {
+    "item_id": 956,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 957,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 958,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 959,
+    "category": "Wafer"
+  },
+  {
+    "item_id": 960,
+    "category": "Kecap"
+  },
+  {
+    "item_id": 961,
+    "category": "Minuman Siap Saji"
+  },
+  {
+    "item_id": 962,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 963,
+    "category": "Keripik & Kerupuk"
+  },
+  {
+    "item_id": 964,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 965,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 966,
+    "category": "Minyak"
+  },
+  {
+    "item_id": 967,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 968,
+    "category": "Produk Dewasa"
+  },
+  {
+    "item_id": 969,
+    "category": "Pembalut"
+  },
+  {
+    "item_id": 970,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 971,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 972,
+    "category": "Beras"
+  },
+  {
+    "item_id": 973,
+    "category": "Pembersih Wajah"
+  },
+  {
+    "item_id": 974,
+    "category": "Susu Bubuk"
+  },
+  {
+    "item_id": 975,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 976,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 977,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 978,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 979,
+    "category": "Permen & Cokelat"
+  },
+  {
+    "item_id": 980,
+    "category": "Mie Instan"
+  },
+  {
+    "item_id": 981,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 982,
+    "category": "Kue & Roti"
+  },
+  {
+    "item_id": 983,
+    "category": "Detergen"
+  },
+  {
+    "item_id": 984,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 985,
+    "category": "Perawatan Kulit Pria"
+  },
+  {
+    "item_id": 986,
+    "category": "Es Krim"
+  },
+  {
+    "item_id": 987,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 988,
+    "category": "Cairan Pembersih Mulut"
+  },
+  {
+    "item_id": 989,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 990,
+    "category": "Biskuit"
+  },
+  {
+    "item_id": 991,
+    "category": "Sabun Cuci Piring"
+  },
+  {
+    "item_id": 992,
+    "category": "Gunting"
+  },
+  {
+    "item_id": 993,
+    "category": "Saus & Sambal"
+  },
+  {
+    "item_id": 994,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 995,
+    "category": "Air Mineral"
+  },
+  {
+    "item_id": 996,
+    "category": "Kertas Pembungkus"
+  },
+  {
+    "item_id": 997,
+    "category": "Body Lotion & Butter"
+  },
+  {
+    "item_id": 998,
+    "category": "Pasta Gigi"
+  },
+  {
+    "item_id": 999,
+    "category": "Pewangi Kain"
+  },
+  {
+    "item_id": 1000,
+    "category": "Saus & Sambal"
+  }
+]
